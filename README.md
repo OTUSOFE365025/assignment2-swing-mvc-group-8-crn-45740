@@ -6,7 +6,7 @@ purpose of the Swing framework. Submit a class diagram of the components of Swin
 
 The purpose of Java Swing is to provide an easy and adaptable way to create graphical user interfaces for desktop applications in Java. It includes built-in tools and components, like JFrame, JPanel, JButton, and JLabel, to design windows, forms, and menus without starting scratch. Also, Swing can run on any operating system because it is written entirely in Java. It's event-driven too, so the program responds to what the user is doing, through listeners, and follows the Model-View-Controller (MVC) principle, where the data, the visual display and the logic are separate, making it easy to build applications that are both clean and interactive.
 
-src=<img width="1965" height="956" alt="image" src="https://github.com/user-attachments/assets/ce91660e-eae9-4ce0-a465-e477463c3089" />
+<img width="1965" height="956" alt="image" src="https://github.com/user-attachments/assets/ce91660e-eae9-4ce0-a465-e477463c3089" />
  />
 
 
