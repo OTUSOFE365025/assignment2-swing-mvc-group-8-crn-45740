@@ -17,3 +17,7 @@ In the GitHub repository example code, the Model-View-Controller pattern is impl
 The View, which is the visual part of the application, creates the user interface with Swing components such as JFrame, JLabel, JTextField, and JButton. It's all about laying out and presenting the information.
 The Controller bridges the two by hooking up buttons in the View so that when clicked, it asks the View for the input, updates the Model, and shows a pop-up message box. The MySwingMVCApp class initializes the components and starts the application. 
 Swing takes a slightly different approach than the conventional MVC pattern we have learned in lectures. From the perspective that controllers MVC are embedded as listeners inside GUI components rather than being completely separate modules. In the conventional MVC, the Model would send notifications to the View and Controller through the Observer pattern, which keeps them separate. Here, the Controller goes straight to the View and Model, cutting loose on the separation, but simplifying event handling. This shows how Swing takes the MVC idea we learned in class and applies it to a real GUI setup, keeping each part focused on its own job and making it easier to understand how MVC actually works.
+
+
+**4.Create a sequence diagram of your design for the scenario presented in question 3 representing a single press of the scan button.**
+<img width="1356" height="703" alt="image" src="https://github.com/user-attachments/assets/90f493e9-7c7e-4883-b9eb-e82ff140bc3c" />
