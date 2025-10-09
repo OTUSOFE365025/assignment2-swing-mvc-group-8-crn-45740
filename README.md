@@ -20,4 +20,4 @@ Swing takes a slightly different approach than the conventional MVC pattern we h
 
 
 **4.Create a sequence diagram of your design for the scenario presented in question 3 representing a single press of the scan button.**
-<img width="1356" height="703" alt="image" src="https://github.com/user-attachments/assets/90f493e9-7c7e-4883-b9eb-e82ff140bc3c" />
+<img width="1348" height="707" alt="image" src="https://github.com/user-attachments/assets/36cb58c2-0d41-4383-8ffa-98aa3c0b572a" />
